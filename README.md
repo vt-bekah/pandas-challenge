@@ -3,12 +3,12 @@ This repository contains challenge files for UT DAV Bootcamp Module 4 Data Analy
 
 # File Notes
 * PyCitySchools folder contains my solution and resource files
-   * PyCitySchools.ipynb contains my written analysis in the top cell of and the complete code to output results as indicated by the instrustions.
+   * PyCitySchools.ipynb contains my written analysis in the top cell and the complete code to output results as indicated by the instrustions in the following cells.
    * Notes.docx contains my notes as I worked through the analysis including consolidating screenshots of various output results requested by the instructions and additional results from queries I temporarily added to the script. This should NOT be considered my written analysis but shows some additional query results referenced in my analysis.
    * Resources folder contains the data to be analyzed per the instructions
      * schools_complete.csv
      * students_complete.csv
-* Starter_Code folder contains the filesprovided in BCS/Canvas for completing the challenge.
+* Starter_Code folder contains the files provided in BCS/Canvas for completing the challenge.
    
 
 
